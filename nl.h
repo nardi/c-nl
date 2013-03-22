@@ -12,11 +12,14 @@ definieer_type double groot_decimaal_getal;
 #define verhoog ++
 
 #define niet !
-#define is_gelijk_aan ==
-#define is_groter_dan >
-#define is_kleiner_dan <
-#define is_groter_dan_of_gelijk_aan >=
-#define is_kleiner_dan_of_gelijk_aan >=
+#define gelijk ==
+#define groter >
+#define kleiner <
+#define is 
+#define aan 
+#define dan 
+#define of ||
+#define en &&
 
 #define hoofdfunctie main
 #define druk_in_vorm printf
